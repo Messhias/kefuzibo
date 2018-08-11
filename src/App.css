@@ -1,3 +1,9 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~font-awesome/css/font-awesome.min.css';
+
+
 .App {
   text-align: center;
 }
@@ -25,4 +31,25 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+.free-seat {
+   opacity: 0.4;
+}
+
+.card-custom {
+    min-height: 130px;
+}
+
+.slick-prev:before, .slick-next:before {
+  opacity: 1;
+  color: black;
+}
+
+.card {
+    cursor: pointer;
+}
+
+.mg-top-5 {
+    margin-top: 5%;
 }

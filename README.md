@@ -104,15 +104,15 @@ You can find the most recent version of this guide [here](https://github.com/fac
 - [Something Missing?](#something-missing)
 
 ### Application screenshots
-![System screenshop 1](1)
-![System screenshop 2](2)
-![System screenshop 3](3)
-![System screenshop 4](4)
-![System screenshop 5](5)
-![System screenshop 6](6)
-![System screenshop 7](7)
-![System screenshop 8](8)
-![System screenshop 9](9)
+![System screenshop 1](1.png)
+![System screenshop 2](2.png)
+![System screenshop 3](3.png)
+![System screenshop 4](4.png)
+![System screenshop 5](5.png)
+![System screenshop 6](6.png)
+![System screenshop 7](7.png)
+![System screenshop 8](8.png)
+![System screenshop 9](9.png)
 
 
 ## Updating to New Releases
